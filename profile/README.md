@@ -7,7 +7,7 @@ Our goal is to simplify actuator integration and control, enabling more efficien
 ## Repositories
 
 - [**legato**](https://github.com/open-actuator/legato): A unified actuator SDK providing consistent APIs for various robotic actuators.
-- [**legato_ros2**](https://github.com/open-actuator/legato_ros2): ROS2 integration for the Legato SDK, making actuator control seamless within ROS2 ecosystems.
+- [**legato-ros2**](https://github.com/open-actuator/legato-ros2): ROS2 integration for the Legato SDK, making actuator control seamless within ROS2 ecosystems.
 
 ## Contributing 💚
 
