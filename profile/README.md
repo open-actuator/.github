@@ -2,7 +2,7 @@
 
 <!-- show logo, center it -->
 <div style="text-align: center;">
-  <img src="../assets/logo.svg" width="25%" height="25%" alt="Gear Logo" style="vertical-align: middle;">
+  <img src="../assets/logo.svg" width="25%" height="25%" alt="open actuator logo" style="vertical-align: middle;">
 </div>
 
 Welcome to **Open Actuator**, an open-source community dedicated to developing flexible and unified tools for robotic actuators.
