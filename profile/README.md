@@ -1,7 +1,7 @@
 # Open Actuator
 
 <!-- show logo, center it -->
-<div style="text-align: center;">
+<div align="center">
   <img src="../assets/logo.svg" width="25%" height="25%" alt="open actuator logo" style="vertical-align: middle;">
 </div>
 
